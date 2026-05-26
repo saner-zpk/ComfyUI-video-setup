@@ -1,0 +1,76 @@
+# ====== Claude Code Token 降本 ======
+
+# Dependencies
+node_modules/
+.pnp/
+.pnp.js
+__pycache__/
+*.pyc
+
+# Python virtual envs
+venv/
+env/
+.venv/
+
+# Build artifacts
+dist/
+build/
+out/
+target/
+.next/
+.nuxt/
+.output/
+.vite/
+.turbo/
+
+# Caches & temp
+.cache/
+*.tsbuildinfo
+*.log
+tmp/
+temp/
+
+# IDE & system
+.vscode/
+.idea/
+.DS_Store
+*.swp
+*.swo
+*~
+
+# Large assets
+*.mp4
+*.mp3
+*.mov
+*.avi
+*.zip
+*.tar.gz
+*.tgz
+*.rar
+*.7z
+*.pdf
+*.wasm
+*.pth
+*.safetensors
+*.bin
+*.ckpt
+
+# Secrets & DB
+*.db
+*.sqlite
+*.sqlite3
+.env
+.env.local
+.env.*.local
+*.pem
+*.key
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Docker
+docker-data/
+
+# Generated files
+*.generated.*
