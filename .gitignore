@@ -19,6 +19,8 @@ venv/
 /tests-ui/data/object_info.json
 /user/
 *.log
+.claude/
+.playwright-mcp/
 web_custom_versions/
 .DS_Store
 openapi.yaml
